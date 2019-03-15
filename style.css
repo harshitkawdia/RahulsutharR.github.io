@@ -2,7 +2,7 @@ body{
   margin: 0;
   padding: 0;
   background-image: url("bk2.jpg");
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   height: 500px;
   background-position: center;
   background-attachment: fixed;   
