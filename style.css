@@ -10,7 +10,7 @@ body{
 }
 
 .card{
-  width: 500px;
+  width: 35%;
   background: #dce2ed;
   overflow: hidden;
   font-family: "montserrat",sans-serif;
@@ -65,9 +65,9 @@ body{
 
 .name{
   position: absolute;
-  bottom: 20px;
-  left: 20px;
-  font-size: 40px;
+  bottom: 10%;
+  left: 7%;
+  font-size: 250%;
   font-weight: 900;
   opacity: .7;
 }
